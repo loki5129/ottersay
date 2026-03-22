@@ -22,18 +22,18 @@ $                 ``""--`------`
 1: Clone the repo:
 
 ```bash
-$ git clone https://github.com/phantypengy/sealsay
-$ cd sealsay
+$ git clone https://github.com/loki5129/ottersay
+$ cd ottersay
 ```
 
 2: Make script executable & add it to PATH:
 
 ```bash
-$ chmod +x sealsay
+$ chmod +x ottersay
 
 # Linux / macOS:
-$ sudo mv sealsay /usr/local/bin/sealsay
-$ sudo mv seals /usr/share/seals
+$ sudo mv sealsay /usr/local/bin/ottersay
+$ sudo mv seals /usr/share/otters
 
 After running the mv command, it is safe to delete the remains of the repo
 
@@ -42,4 +42,4 @@ After running the mv command, it is safe to delete the remains of the repo
 Same format as cowsay:
 
 ```bash
-$ sealsay [-f sealfile] [-n] [-l] [-W wrapcolumn] [message]
+$ ottersay [-f otterfile] [-n] [-l] [-W wrapcolumn] [message]
