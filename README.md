@@ -1,4 +1,5 @@
 # ottersay
+ '''bash
  _______ 
 < otter >
  ------- 
