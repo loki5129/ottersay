@@ -1,6 +1,6 @@
 # ottersay
  '''bash
-           
+    $ottersay otter       
 '''
 
 ### Manual
